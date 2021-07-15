@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on projects with other developers such as myself and am open to learning new things
 - 📫 the quickest way to reach me is to shoot me an email on my personal email mominmazharbutt1998@gmail.com
 - If you'd like to know more about me, please feel free to take a look at my projects that i have done in my past as an Information Security Student.
+-  Programming languages i have learned are: C, Java, JSP, Unix, HTML, CSS, PHP, and SQL, and you will see my assignments are written in them.   
 
 <!---
 Momin-git/Momin-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
